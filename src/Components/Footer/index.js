@@ -47,7 +47,7 @@ const FooterComponent = ()=>{
                         </Col>
                         <Col className='col-12'>
                             <div className="footerCopyright">
-                                <small>2022. Developed and Designed  by <a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer">Ujjwal Walia</a>.</small>
+                                <small>2022. Developed and Designed  by <a href="https://www.youtube.com/c/AzadMalikRohit" target="_blank" rel="noreferrer">Ujjwal Walia,Rohit Jaiswal,Rohan Singh</a>.</small>
                             </div>
                         </Col>
                    </Row>
